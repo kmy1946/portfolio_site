@@ -1,3 +1,24 @@
+御覧いただきありがとうございます。
+
+このソースコードを受け取り、動かすには、以下のようになります。
+
+・ローカルサーバーで動かす場合
+　emailjsの登録
+　１，APIキーなどの取得
+　２，.gitignoreと同ディレクトリの.envファイルに必要事項（取得したAPIキー、ユーザーID、テンプレートID）を記載
+　３，OK
+
+・公開する場合
+①FirebaseのHostingにデプロイする方法
+直接お伝えします。
+
+②GithubPagesでデプロイする方法
+直接お伝えします。
+
+
+
+以下、デフォルトのREAD.mdの記載
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
